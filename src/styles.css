@@ -1,0 +1,38 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.Norris {
+  align-content: center;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  background-color: #cfcfc4;
+  padding: 30px;
+}
+
+.Norris h1 {
+  background-color: black;
+  padding: 20px;
+  color: white;
+}
+
+.Norris p {
+  background-color: burlywood;
+  padding: 40px;
+  border-radius: 20px;
+}
+
+.Norris input {
+  width: 300px;
+  height: 25px;
+  background-color: crimson;
+  color: white;
+  font-weight: bold;
+}
+
+.Norris select {
+  width: 300px;
+  height: 25px;
+}
